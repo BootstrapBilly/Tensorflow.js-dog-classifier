@@ -1,6 +1,6 @@
 A tensorflow image classifier incorporated into a basic web app
 
-###To run it - 
+### To run it - 
 
 ```npm start```
 
